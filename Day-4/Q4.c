@@ -1,3 +1,4 @@
+//WAP to print armstrong number in a range
 #include <stdio.h>
 #include <math.h>
 
